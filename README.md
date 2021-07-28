@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Charanya @chayssiv
+- 👀 I’m interested in exploring the programming world ...
+- 🌱 I’m currently learning a whole lot of cool stuff ...
+- 💞️ I’m looking to collaborate on solving tough challenges ...
+
+<!---
+chayssiv/chayssiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
